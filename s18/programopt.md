@@ -19,7 +19,7 @@ Initial thoughts make it seem limited. Essentially it only works on basic blocks
 
 However, after discussion some interesting points came up. The paper is focused on assembly, particularly x86 assembly. There are 100s of instructions so running it on small code segments can allow for the benefits of the superoptimization.
 
-**Is the exhaustive testing really a limitation?"
+**Is the exhaustive testing really a limitation?**
 
 Theres a lot of work on automated testing and symbolic/concolic execution that could provide many advantages when coupled with this system. They wouldn't be able to directly feed into one another, but basically you could superoptimize against a weak set of tests. Then use the new code to come up with a stronger set of tests and continue on.
 
