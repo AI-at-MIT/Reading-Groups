@@ -3,11 +3,13 @@ Stochastic Program Optimization
 
 ## General Information
 
-Link: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
+Link: https://theory.stanford.edu/~aiken/publications/papers/cacm16.pdf
 
-Presented By: Ajay Jain and Justin Chen
+Presented By: Ajay Jain
 
-Date: 2/14/18
+Notes by: Parth Shah
+
+Date: 4/4/2018
 
 ## Notes
 
