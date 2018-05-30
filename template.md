@@ -7,7 +7,9 @@ Link to Paper: [link here]
 
 Link to Slides: [link here. be sure to upload the slides first to the reading-groups repo]
 
-Presented By: [you!]
+Presented By: [you, or the presenter if different!]
+
+Notes By: [you!]
 
 Date: [today!]
 
