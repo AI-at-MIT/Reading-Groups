@@ -16,6 +16,14 @@ Find paper PDFs, along with some slides and notes, in this repository.
 
 | Date | Paper | Presenter |
 |------------|-------------------------------------------------------|----------------------------------|
+| 11/28/2018 | BAGAN: Data Augmentation with Balancing GAN | Kaveri Nadhamuni |
+| 11/14/2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Sree Harsha Nelaturu |
+| 10/31/2018 | How Does Batch Normalization Help Optimization? | Moin Nadeem |
+| 10/24/2018 | [Annotating the World Wide Web using Natural Language](https://groups.csail.mit.edu/infolab/publications/Katz-RIAO97.pdf), [Omnibase: Uniform Access to Heterogeneous Data for Question Answering](https://groups.csail.mit.edu/infolab/publications/Katz-etal-NLDB02.pdf) | Michael Silver |
+| 10/17/2018 | Learning to Compose Neural Networks for Question Answering | Sree Harsha Nelaturu |
+| 10/10/2018 | Neural Turing Machines -- blog post and paper | Nate Foss |
+| 10/3/2018 | Bring your own paper! | -- |
+| 9/26/2018 | Variational Inference with Normalizing Flows | Ajay Jain |
 
 ## Spring 2018 reading group schedule
 
