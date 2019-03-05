@@ -1,6 +1,6 @@
 # MIT MIC Reading Group
 
-The MIT Machine Intelligence Community holds (nearly) weekly reading groups on topics in machine learning, from theory to computer vision to systems applications. Join the [mailing list](http://bitly.com/mit-mic) and [Slack community](https://mit-mic.slack.com/signup) to hear more + discuss!
+The MIT Machine Intelligence Community holds (nearly) weekly reading groups on topics in machine learning, from theory to computer vision to systems applications. Join the [mailing list](https://groups.mit.edu/webmoira/list/mic-members) and [Slack community](https://mit-mic.slack.com/signup) to hear more + discuss!
 
 Find paper PDFs, along with some slides and notes, in this repository.
 
@@ -55,3 +55,13 @@ Find paper PDFs, along with some slides and notes, in this repository.
 | 9/28/2017 | [DenseNet](https://arxiv.org/abs/1608.06993), [ResNet](https://arxiv.org/abs/1512.03385) and [HighwayNet](https://arxiv.org/pdf/1505.00387.pdf) | Tim Plump |
 | 9/18/2017 | **Guest speaker:** Object detection and recognition | Paras Jain (DeepScale) |
 | 9/14/2017 | [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | Andrew Luo |
+
+## Fall 2016 reading group schedule
+
+| Date | Paper | Presenter |
+|------------|-------------------------------------------------------|----------------------------------|
+| 11/7/2016 | Adam - A method for stochastic optimization | Hassan Kane |
+| 10/31/2016 | Learning to Protect Communications with Adversarial Neural Cryptography | Simanta Gautam |
+| 10/24/2016 | Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | Nick |
+| 10/17/2016 | Human-level control through deep reinforcement learning | Ali-Amir Aldan |
+| 10/3/2016 | Generative Adversarial Networks | Prafulla Dhariwal |
