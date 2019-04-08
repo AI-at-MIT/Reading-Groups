@@ -8,7 +8,8 @@ Find paper PDFs, along with some slides and notes, in this repository.
 
 | Date | Paper | Presenter |
 |------------|-------------------------------------------------------|----------------------------------|
-| 3/13/2019 | TBA | Sualeh Asif |
+| 4/3/2019 | Sampling Matters in Deep Embedding Learning | Samson Timoner |
+| 3/13/2019 | Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation | Sualeh Asif |
 | 3/6/2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) ([video](https://stylegan.xyz/video)) | Abhinav Venigalla |
 | 2/25/2019 | [Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks](https://arxiv.org/abs/1803.10892) | Ajay Jain |
 
