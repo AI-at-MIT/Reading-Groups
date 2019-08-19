@@ -3,6 +3,10 @@
 The MIT Machine Intelligence Community holds (nearly) weekly reading groups on topics in machine learning, from theory to computer vision to systems applications. Join the [mailing list](https://groups.mit.edu/webmoira/list/mic-members) and [Slack community](https://mit-mic.slack.com/signup) to hear more + discuss!
 
 Find paper PDFs, along with some slides and notes, in this repository.
+## Fall 2019 reading group schedule
+
+| Date | Paper | Slides | Presenter |
+|------------|-------------------------------------|------------------|----------------------------------|
 
 ## Spring 2019 reading group schedule
 
