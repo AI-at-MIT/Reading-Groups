@@ -1,13 +1,4 @@
-Topics:
-Reinforcement Learning
-Generative models
-Computer Vision
-Natural Language Processing
-Recommender systems
-Geometry
-Multitask learning
-Optimization
-Interpretability/Theory
+
 
 Papers:
 XLNet (https://arxiv.org/pdf/1906.08237.pdf)
@@ -18,3 +9,4 @@ Stand-Alone Self-Attention in Vision Models (https://arxiv.org/pdf/1906.05909v1.
 What Does BERT Look At? An Analysis of BERT’s Attention (https://arxiv.org/pdf/1906.04341v1.pdf)
 Do GANs learn the distribution? Some theory and empirics (https://openreview.net/pdf?id=BJehNfW0-)
 On the ability of neural nets to express distributions (https://arxiv.org/pdf/1702.07028.pdf)
+“Why Should I Trust You?” Explaining the Predictions of Any Classifier (https://arxiv.org/pdf/1602.04938.pdf)
