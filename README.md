@@ -13,7 +13,7 @@ Find paper PDFs, along with some slides and notes, in this repository.
 | 4/19/2019 | [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](https://arxiv.org/abs/1411.2539) | [slides](https://docs.google.com/presentation/d/1c6y6iLWfMRKNoaKpaBktRWZ1HF4T0vFIuR6DX9C2vPs/edit?usp=sharing) | Kaveri Nadhamuni |
 | 4/10/2019 | A Brief Introduction to Hyperbolic Geometry for Machine Learning | [slides](https://github.com/ch3njust1n/summaries/blob/master/hyperbolic/a%20brief%20introduction%20to%20hyperbolic%20geometry%20for%20machine%20learning.pdf) | Justin Chen |
 | 4/3/2019 | [Sampling Matters in Deep Embedding Learning](https://arxiv.org/abs/1706.07567) | | Samson Timoner |
-| 3/13/2019 | [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/pdf/1604.06057.pdf) | Sualeh Asif |
+| 3/13/2019 | [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/pdf/1604.06057.pdf) | | Sualeh Asif |
 | 3/6/2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) ([video](https://stylegan.xyz/video)) | [slides](https://docs.google.com/presentation/d/11QMRydv0LfSfUSi_cjzU_EcDR-8Nt3G8qJNGhsNrsOI/edit?usp=sharing) | Abhinav Venigalla |
 | 2/25/2019 | [Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks](https://arxiv.org/abs/1803.10892) | [slides](https://docs.google.com/presentation/d/1CBF0vrtE0BATnj33UxZ-zt7e2bAUVJNYxfcsFwORCGE/edit#slide=id.p) | Ajay Jain |
 
