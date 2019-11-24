@@ -4,6 +4,23 @@ The MIT Machine Intelligence Community holds (nearly) weekly reading groups on t
 
 Find paper PDFs, along with some slides and notes, in this repository.
 
+## Fall 2019 reading group schedule
+
+| Date | Paper | Slides | Presenter |
+|------------|-------------------------------------|------------------|----------------------------------|
+| 11/20/2019 | Review of speech synthesis backend: [WaveNet](https://arxiv.org/pdf/1609.03499.pdf), [WaveRNN](https://arxiv.org/pdf/1802.08435.pdf) and related papers |[slides](https://docs.google.com/presentation/d/1YjPbgO4NhDZWnZcplYz1M40qoV-A_yDR12BUpPNZyyo/edit?usp=sharing) | Kristian Georgiev|
+| 11/13/2019 | [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf) |[slides](https://docs.google.com/presentation/d/14phWzcZ1192zbPlhTr0NIsAoCRcJV--3gJnRYMmuJrM/edit?usp=sharing) | Raj Movva|
+| 11/6/2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) | | Robert Cunningham|
+| 10/30/2019 | [Learning the Depths of Moving People by Watching Frozen People](https://mannequin-depth.github.io/) | [slides](https://docs.google.com/presentation/d/1AYq0EL6X0_O9Twsdt_q5iNGMikRktEUofmSY-lI2PNI/edit) | Ethan Weber|
+| 10/23/2019 | Brief summary of the current state of NLP ([BERT](https://arxiv.org/pdf/1810.04805.pdf), [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), and [XLNet](https://arxiv.org/pdf/1906.08237.pdf))]|[slides](https://docs.google.com/presentation/d/1Hlxd5BLP9Kc9CqPziBzhd9001_ucEKH9rICjhdhC_io/edit?usp=sharing) | Moin Nadeem |
+| 10/16/2019 | [Stabilizing the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1903.01611.pdf) | [slides](https://drive.google.com/file/d/1gnFzZxTlBWbmI6AIgNfCqLM3oPGFTPmY/view?usp=sharing) | Yoni Shteibel |
+| 10/9/2019 | Doing for our robots what nature did for us | [slides](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fprw582tc7x7b554%2FMIT-MIC-19.pdf%3Fdl%3D0&h=AT3qgfCoLw6ImdH7LHs0MBBdyRnO3oeVcMXh9MGkX5y2Eh5hEhA1bP60oJ_oe_iHkWWKSV-sUF3_XbUIBZ3n3ghzvB11zNbF-N4Kmp8jB4rN1nUFekiiMjcEEAFhuW3YR6KQ8uXRrDg)| Prof. Leslie Kaelbling |
+| 10/2/2019 | A New Perspective on Adversarial Perturbations | | Prof. Aleksander Madry |
+| 9/25/2019 | [Variational Autoencoders and Nonlinear ICA:
+A Unifying Framework](https://arxiv.org/pdf/1907.04809.pdf) | | Shreyas Balaji |
+| 9/18/2019 | [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910.pdf) |  | Alex Coventry |
+| 9/11/2019 | [Active Learning for Convolutional Neural Networks: A Core-Set Approach](https://arxiv.org/pdf/1708.00489.pdf) | [slides](https://docs.google.com/presentation/d/1NU0d0vt2L2k3wqmf0x9yg0B18ZFNs6zvWAS6UnW2NSY/edit#slide=id.p) | Kaveri Nadhamuni |
+
 ## Spring 2019 reading group schedule
 
 | Date | Paper | Slides | Presenter |
