@@ -16,8 +16,7 @@ Find paper PDFs, along with some slides and notes, in this repository.
 | 10/16/2019 | [Stabilizing the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1903.01611.pdf) | [slides](https://drive.google.com/file/d/1gnFzZxTlBWbmI6AIgNfCqLM3oPGFTPmY/view?usp=sharing) | Yoni Shteibel |
 | 10/9/2019 | Doing for our robots what nature did for us | [slides](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fprw582tc7x7b554%2FMIT-MIC-19.pdf%3Fdl%3D0&h=AT3qgfCoLw6ImdH7LHs0MBBdyRnO3oeVcMXh9MGkX5y2Eh5hEhA1bP60oJ_oe_iHkWWKSV-sUF3_XbUIBZ3n3ghzvB11zNbF-N4Kmp8jB4rN1nUFekiiMjcEEAFhuW3YR6KQ8uXRrDg)| Prof. Leslie Kaelbling |
 | 10/2/2019 | A New Perspective on Adversarial Perturbations | | Prof. Aleksander Madry |
-| 9/25/2019 | [Variational Autoencoders and Nonlinear ICA:
-A Unifying Framework](https://arxiv.org/pdf/1907.04809.pdf) | | Shreyas Balaji |
+| 9/25/2019 | [Variational Autoencoders and Nonlinear ICA: A Unifying Framework](https://arxiv.org/pdf/1907.04809.pdf) | | Shreyas Balaji |
 | 9/18/2019 | [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910.pdf) |  | Alex Coventry |
 | 9/11/2019 | [Active Learning for Convolutional Neural Networks: A Core-Set Approach](https://arxiv.org/pdf/1708.00489.pdf) | [slides](https://docs.google.com/presentation/d/1NU0d0vt2L2k3wqmf0x9yg0B18ZFNs6zvWAS6UnW2NSY/edit#slide=id.p) | Kaveri Nadhamuni |
 
