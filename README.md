@@ -15,7 +15,7 @@ Find paper PDFs, along with some slides and notes, in this repository.
 
 | Date | Paper | Slides | Presenter |
 |------------|-------------------------------------|------------------|----------------------------------|
-| 12/04/2019 | Representational Power of Graph Neural Networks | [slides](https://drive.google.com/file/d/1EraeebBK7jCCDS2_AePucu4UE-7cyjYw/view?usp=sharing) | Stefanie Jegelka |
+| 12/04/2019 | Representational Power of Graph Neural Networks | [slides](https://drive.google.com/file/d/1EraeebBK7jCCDS2_AePucu4UE-7cyjYw/view?usp=sharing) | Prof. Stefanie Jegelka |
 | 11/27/2019 | [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) | | Kaveri Nadhamuni |
 | 11/20/2019 | Review of speech synthesis backend: [WaveNet](https://arxiv.org/pdf/1609.03499.pdf), [WaveRNN](https://arxiv.org/pdf/1802.08435.pdf) and related papers |[slides](https://docs.google.com/presentation/d/1YjPbgO4NhDZWnZcplYz1M40qoV-A_yDR12BUpPNZyyo/edit?usp=sharing) | Kristian Georgiev|
 | 11/13/2019 | [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf) |[slides](https://docs.google.com/presentation/d/14phWzcZ1192zbPlhTr0NIsAoCRcJV--3gJnRYMmuJrM/edit?usp=sharing) | Raj Movva|
