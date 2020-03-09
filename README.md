@@ -8,7 +8,7 @@ Find paper PDFs, along with some slides and notes, in this repository.
 
 | Date | Paper | Slides | Presenter |
 |------------|-------------------------------------|------------------|----------------------------------|
-| 3/4/2020 | [Invertible Residual Networks] |[slides](https://docs.google.com/presentation/d/17Z1Ctycjurl-KlfjeGfXp262GQF9GVwpCV18VurKNZU/edit?usp=sharing) | Kaveri Nadhamuni |
+| 3/4/2020 | [Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf) |[slides](https://docs.google.com/presentation/d/17Z1Ctycjurl-KlfjeGfXp262GQF9GVwpCV18VurKNZU/edit?usp=sharing) | Kaveri Nadhamuni |
 | 2/19/2020 | [Towards Learned Algorithms, Data Structures, and Systems] |[slides](https://drive.google.com/file/d/1m9m6uh8qYBen1ezT9lpjAXCjeixeqwcR/view?usp=sharing) | Prof. Tim Kraska |
 
 ## Fall 2019 reading group schedule
