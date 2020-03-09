@@ -4,6 +4,13 @@ The MIT Machine Intelligence Community holds (nearly) weekly reading groups on t
 
 Find paper PDFs, along with some slides and notes, in this repository.
 
+## Spring 2020 reading group schedule
+
+| Date | Paper | Slides | Presenter |
+|------------|-------------------------------------|------------------|----------------------------------|
+| 3/4/2020 | [Invertible Residual Networks] |[slides](https://docs.google.com/presentation/d/17Z1Ctycjurl-KlfjeGfXp262GQF9GVwpCV18VurKNZU/edit?usp=sharing) | Kaveri Nadhamuni |
+| 2/19/2020 | [Towards Learned Algorithms, Data Structures, and Systems] |[slides](https://drive.google.com/file/d/1m9m6uh8qYBen1ezT9lpjAXCjeixeqwcR/view?usp=sharing) | Prof. Tim Kraska |
+
 ## Fall 2019 reading group schedule
 
 | Date | Paper | Slides | Presenter |
