@@ -1,8 +1,16 @@
-# MIT MIC Reading Group
+# AI@MIT club Reading Group
 
-The MIT Machine Intelligence Community holds (nearly) weekly reading groups on topics in machine learning, from theory to computer vision to systems applications. Join the [mailing list](https://groups.mit.edu/webmoira/list/mic-members) and [Slack community](https://mit-mic.slack.com/signup) to hear more + discuss!
+The AI@MIT club holds (nearly) weekly reading groups on topics in machine learning, from theory to computer vision to systems applications. Join the [mailing list](https://groups.mit.edu/webmoira/list/mic-members) and [Slack community](https://mit-mic.slack.com/signup) to hear more + discuss!
 
 Find paper PDFs, along with some slides and notes, in this repository.
+
+## Fall 2020 reading group schedule
+
+| Date | Paper | Slides | Presenter |
+|------------|-------------------------------------|------------------|----------------------------------|
+| 4/7/2020 |  [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/pdf/2007.02933.pdf)|| Kristian Georgiev |
+| 3/4/2020 | [What Do Neural Networks Learn When Trained With Random Labels?](https://arxiv.org/pdf/2006.10455.pdf) |[slides](https://docs.google.com/presentation/d/1-M8_lwyUZorSwwf3tjts3G9K7BYXZ0pe7WsPkMS9Ybk/edit?usp=sharing) | Kaveri Nadhamuni |
+
 
 ## Spring 2020 reading group schedule
 
@@ -10,6 +18,8 @@ Find paper PDFs, along with some slides and notes, in this repository.
 |------------|-------------------------------------|------------------|----------------------------------|
 | 3/4/2020 | [Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf) |[slides](https://docs.google.com/presentation/d/17Z1Ctycjurl-KlfjeGfXp262GQF9GVwpCV18VurKNZU/edit?usp=sharing) | Kaveri Nadhamuni |
 | 2/19/2020 | Towards Learned Algorithms, Data Structures, and Systems |[slides](https://drive.google.com/file/d/1m9m6uh8qYBen1ezT9lpjAXCjeixeqwcR/view?usp=sharing) | Prof. Tim Kraska |
+| 4/7/2020 |  [A Unified Analysis of Extra-gradient and OptimisticGradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/pdf/1901.08511.pdf)|| Kristian Georgiev |
+| 4/12/2020 |  [Fractal AI: A fragile theory of intelligence](https://arxiv.org/abs/1803.05049)|| Tony Wang |
 
 ## Fall 2019 reading group schedule
 
