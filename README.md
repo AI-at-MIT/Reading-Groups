@@ -8,7 +8,12 @@ Find paper PDFs, along with some slides and notes, in this repository.
 
 | Date | Paper | Slides | Presenter |
 |------------|-------------------------------------|------------------|----------------------------------|
-| 4/7/2020 |  [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/pdf/2007.02933.pdf)|| Kristian Georgiev |
+| 11/20/2020 |  [Train simultaneously, generalize better: Stability of gradient-based minimax learners](https://arxiv.org/pdf/2010.12561.pdf)| | Kristian Georgiev |
+| 11/13/2020 |[Deep Learning for Symbolic Mathematics](https://arxiv.org/pdf/1912.01412.pdf)|[slides](https://drive.google.com/file/d/1w6wQNMXA4NmkgkvPG5AP-Cp_gx5AJtI9/view?usp=sharing) | Shayda Moezzi |
+| 10/30/2020 |[Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time](https://arxiv.org/pdf/2009.10623.pdf)| [slides](https://drive.google.com/file/d/1EDmm8E1s0yEMvTFIAJrVLRwZtrXXJuEm/view?usp=sharing) | Farren Alet |
+| 10/23/2020 |[Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion/)| [slides](https://drive.google.com/file/d/1EDmm8E1s0yEMvTFIAJrVLRwZtrXXJuEm/view?usp=sharing) | Ajay Jain |
+| 10/9/2020 |  [Robust Encodings: A Framework for Combating Adversarial Typos](https://arxiv.org/abs/2005.01229)|[annotated paper](https://drive.google.com/file/d/16shgBoghgk0Ut6QVqxVN42567bgeJ0rI/view?usp=sharing)| Raj Movva |
+| 4/7/2020 |  [Meta-Learning Symmetries by Reparameterization](https://arxiv.org/pdf/2007.02933.pdf)| | Kristian Georgiev |
 | 3/4/2020 | [What Do Neural Networks Learn When Trained With Random Labels?](https://arxiv.org/pdf/2006.10455.pdf) |[slides](https://docs.google.com/presentation/d/1-M8_lwyUZorSwwf3tjts3G9K7BYXZ0pe7WsPkMS9Ybk/edit?usp=sharing) | Kaveri Nadhamuni |
 
 
@@ -16,10 +21,12 @@ Find paper PDFs, along with some slides and notes, in this repository.
 
 | Date | Paper | Slides | Presenter |
 |------------|-------------------------------------|------------------|----------------------------------|
+| 4/15/2020 | [Fractal AI: A Fragile Theory of Intelligence](https://arxiv.org/pdf/1803.05049.pdf) |[slides](https://docs.google.com/presentation/d/1LjIHQ1xs7MNLfiYzMQeo8eVe_CyKQsWareK8vVBExY0/edit)| Tony Wang|
+| 4/7/2020 | [A Unified Analysis of Extra-gradient and Optimistic Gradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/pdf/1901.08511.pdf) | | Kristian Georgiev|
 | 3/4/2020 | [Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf) |[slides](https://docs.google.com/presentation/d/17Z1Ctycjurl-KlfjeGfXp262GQF9GVwpCV18VurKNZU/edit?usp=sharing) | Kaveri Nadhamuni |
 | 2/19/2020 | Towards Learned Algorithms, Data Structures, and Systems |[slides](https://drive.google.com/file/d/1m9m6uh8qYBen1ezT9lpjAXCjeixeqwcR/view?usp=sharing) | Prof. Tim Kraska |
 | 4/7/2020 |  [A Unified Analysis of Extra-gradient and OptimisticGradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/pdf/1901.08511.pdf)|| Kristian Georgiev |
-| 4/12/2020 |  [Fractal AI: A fragile theory of intelligence](https://arxiv.org/abs/1803.05049)|| Tony Wang |
+| 4/12/2020 |  [Fractal AI: A fragile theory of intelligence](https://arxiv.org/abs/1803.05049)| | Tony Wang |
 
 ## Fall 2019 reading group schedule
 
