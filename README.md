@@ -4,6 +4,16 @@ The AI@MIT club holds (nearly) weekly reading groups on topics in machine learni
 
 Find paper PDFs, along with some slides and notes, in this repository.
 
+
+## Spring 2021 reading group schedule
+
+| Date | Paper | Slides | Presenter |
+|------------|-------------------------------------|------------------|----------------------------------|
+| 4/7/2020 |Recent advances in contrastive learning| [slides](https://docs.google.com/presentation/d/1T-kWHAwYoNnbumf6cyBJB3cUlrP8xlbFHyd3ccEkNxA/edit?usp=sharing) | Rumen Dangovski |
+| 3/31/2020 |  Online Learning and Regret Minimization|[slides](https://drive.google.com/file/d/1Pm41Izrhx5VHe7eYO-N2xaRTWTqsLv9x/view?usp=sharing)| Max Fishelson |
+| 3/24/2020 |  [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/pdf/2103.01946v1.pdf)|[slides](https://drive.google.com/file/d/1l7o-pXIv4FYfVZVpPAZywpeKHnAR_e81/view?usp=sharing) | Kristian Georgiev |
+| 3/17/2021 | Contrastive Text Generation|[slides](https://drive.google.com/file/d/1yHftxGZD_l-ZbiJZJYaGMrcyble-OKcg/view?usp=sharing) | Darsh Shah |
+
 ## Fall 2020 reading group schedule
 
 | Date | Paper | Slides | Presenter |
@@ -25,8 +35,6 @@ Find paper PDFs, along with some slides and notes, in this repository.
 | 4/7/2020 | [A Unified Analysis of Extra-gradient and Optimistic Gradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/pdf/1901.08511.pdf) | | Kristian Georgiev|
 | 3/4/2020 | [Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf) |[slides](https://docs.google.com/presentation/d/17Z1Ctycjurl-KlfjeGfXp262GQF9GVwpCV18VurKNZU/edit?usp=sharing) | Kaveri Nadhamuni |
 | 2/19/2020 | Towards Learned Algorithms, Data Structures, and Systems |[slides](https://drive.google.com/file/d/1m9m6uh8qYBen1ezT9lpjAXCjeixeqwcR/view?usp=sharing) | Prof. Tim Kraska |
-| 4/7/2020 |  [A Unified Analysis of Extra-gradient and OptimisticGradient Methods for Saddle Point Problems: Proximal Point Approach](https://arxiv.org/pdf/1901.08511.pdf)|| Kristian Georgiev |
-| 4/12/2020 |  [Fractal AI: A fragile theory of intelligence](https://arxiv.org/abs/1803.05049)| | Tony Wang |
 
 ## Fall 2019 reading group schedule
 
